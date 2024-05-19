@@ -13,6 +13,7 @@ The data is then read from these files and analyzed to extract statistics.
 Finally, charts are created based on the analysis results.
 
 ## Table of Contents
+- [Description](#description)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
