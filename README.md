@@ -1,22 +1,25 @@
 # Fake Data Generation for PC Components + Statistics & CSV & Charts
-This project uses the Faker library to generate fake data for various PC components such as processors, motherboards, RAM, HDDs, SSDs, power supplies, and video cards.
+The following project was created as part of a master's course at Polytechnic University of Bucharest. 
 
-This project was created as part of a master's course at Polytechnic University of Bucharest, Faculty of Applied Sciences.
+The complexity of this project has not only expanded my proficiency in Python but also enabled me to delve into novel concepts and uncover my passions within the realm of IT.
 
+## Description
+This project uses the Faker library to generate fake data for various PC components such as processors, motherboards, RAM, HDDs, SSDs, power supplies, and video cards. 
+
+After generating this data, it is saved in CSV files. 
+
+The data is then read from these files and analyzed to extract statistics.
+
+Finally, charts are created based on the analysis results.
 
 ## Table of Contents
-- [Description](#description)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Visualizations](#visualizations)
 - [License](#license)
 
-## Description
-This project generates fake data for various PC components and saves them in CSV files. It also includes functions to calculate descriptive statistics and create various charts using Matplotlib and Seaborn.
-
 ## Project Structure
-
 - CSV/
   - processor_data.csv
   - motherboard_data.csv
