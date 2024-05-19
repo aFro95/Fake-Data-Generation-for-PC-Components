@@ -89,15 +89,19 @@ python analyze_data.py
 The project generates various charts to visualize the fake data:
 
 Proportion of processors offered by Intel vs. AMD
+
 ![Processor Pie Chart](images/Charts/processor_pie_chart.png)
 
 Average prices of motherboards by chipset
+
 ![Motherboard_scatter_plot_chart](images/Charts/motherboard_scatter_plot_chart.png)
 
 Proportion of RAM modules by capacity
+
 ![RAM_pie_chart](images/Charts/ram_pie_chart.png)
 
 Number of HDDs by capacity (TB)
+
 ![HDD_Histogram_chart](images/Charts/hdd_histogram_chart.png)
 
 ## License
