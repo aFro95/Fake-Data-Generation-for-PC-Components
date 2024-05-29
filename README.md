@@ -95,7 +95,7 @@ Proportion of processors offered by Intel vs. AMD
 
 Average prices of motherboards by chipset
 
-![Motherboard_scatter_plot_chart](images/Charts/motherboard_scatter_plot_chart.png)
+![Motherboard_scatter_plot_chart](images/Charts/motherboard_scatter_plot_chartt.png)
 
 Proportion of RAM modules by capacity
 
