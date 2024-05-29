@@ -65,9 +65,10 @@ cd pc-components-fake-data
 
 2. Create a virtual environment (optional but recommended):
 ```
-  python -m venv env
-  source env/bin/activate  # for Unix
-  .\env\Scripts\activate  # for Windows
+  python -m venv venv
+  source venv/bin/activate  # for Unix
+  .\venv\Scripts\activate  # for Windows
+  ./.venv/Scripts/Activate.ps1 # for Powershell
 ```
 3. Install the required dependencies:
 ```
