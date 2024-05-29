@@ -2,5 +2,4 @@ faker
 pandas
 matplotlib
 seaborn
-csv
 statistics
