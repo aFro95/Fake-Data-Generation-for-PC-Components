@@ -43,8 +43,9 @@ Finally, charts are created based on the analysis results.
     - processor.jpg
     - ram.jpg
     - ssd.jpg
-    - video_card.jpg 
+    - video_card.jpg
 - generate_data.py
+- PC Components.ipynb
 - analyze_data.py
 - README.md
 
@@ -59,8 +60,7 @@ Finally, charts are created based on the analysis results.
 
 1. Clone this repository:
 ```
-git clone https://github.com/username/pc-components-fake-data.git
-cd pc-components-fake-data
+gh repo clone aFro95/PC-Components-Data-Generator-Analytics
 ```
 
 2. Create a virtual environment (optional but recommended):
